@@ -14,3 +14,4 @@ lista_convidados = ['Luiz', 'Maria', 'Guilherme', 'Eduarda']
 for nome in lista_convidados:
     print(falar_bom_dia(nome))
     print(falar_boa_noite(nome))
+
